@@ -7,3 +7,7 @@
 + https://github.com/myhub/nlp-mnist
 + https://github.com/Kenneth111/TransformerDemo
 + https://pytorch.org/tutorials/beginner/transformer_tutorial.html
+
+
++ Why do you transpose the input shape to (seq len, batch)?
+#8 https://github.com/teddykoker/image-gpt/issues/8
